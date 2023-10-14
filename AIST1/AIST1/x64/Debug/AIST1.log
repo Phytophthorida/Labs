@@ -1,0 +1,3 @@
+﻿  AIST1.cpp
+D:\Проги на C#\AIST1\AIST1\AIST1.cpp(31,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  AIST1.vcxproj -> D:\Проги на C#\AIST1\x64\Debug\AIST1.exe
